@@ -1,19 +1,18 @@
-# 🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System (Hybrid Recommender)
 
-A hybrid recommendation system using Collaborative Filtering, Content-Based Filtering, and Sentiment Analysis.
+A **production-grade Movie Recommendation System** that generates **highly personalized movie suggestions** by combining **Collaborative Filtering**, **Content-Based Filtering**, and **Sentiment Analysis** on user reviews.
 
-## How to Run
-pip install -r requirements.txt
-python src/recommender.py
-
+This project is designed to be **end-to-end, reproducible, and GitHub-ready**, suitable for **placements, internships, and ML portfolio reviews**.
 
 ## 📸 Screenshots
 
 ### Streamlit App Interface
-![App UI](d:\Downloads\movie-recommendation-system\screenshots\app_ui.png)
+
+![App UI](screenshots/app_ui.png)
 
 ### System Architecture
-![Architecture](d:\Downloads\movie-recommendation-system\screenshots\system_architecture.png)
 
+![Architecture](screenshots/system_architecture.png)
 
+---
 
