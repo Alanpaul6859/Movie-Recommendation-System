@@ -5,14 +5,8 @@ A **production-grade Movie Recommendation System** that generates **highly perso
 This project is designed to be **end-to-end, reproducible, and GitHub-ready**, suitable for **placements, internships, and ML portfolio reviews**.
 
 ## 📸 Screenshots
+screenshots/
+ ├── app_ui.png
+ └── system_architecture.png
 
-### Streamlit App Interface
-
-![App UI](screenshots/app_ui.png)
-
-### System Architecture
-
-![Architecture](screenshots/system_architecture.png)
-
----
 
